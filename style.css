@@ -1,0 +1,101 @@
+body { background-image: url(https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg);background-size: 900px;
+
+}
+
+   h1{ color: red;
+    text-align: center;
+    height: 15px;}
+h3{
+    color: brown;
+    text-align: center;
+}  
+.why{text-align: right;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+padding-right: 10px;
+border-width: 2px;
+color: blue;
+}
+
+.this{
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h4{
+text-align: center;
+color: rgb(226, 153, 64);
+font-size: 100px;
+text-decoration: underline;
+text-decoration-color: bisque;
+width: 80px;
+top: 50px;
+
+}
+.order{
+    background-color: blue;
+    color:white;
+    padding: 20px;
+    font-size: 17px;
+    border: none;
+    position: relative;
+    left: 48%;
+    cursor: pointer;
+}
+.menu a {
+    position:relative;
+    left: 48%;
+    background-color: lightblue;
+    display: block;
+    max-width: 148px;
+    text-decoration: none;
+    color: white;
+    
+}
+.menu a:hover{
+    background-color: brown;
+}
+p{
+    font-size: 50px;
+    text-align: center;
+    color: red;
+    
+}
+.form{
+    position: relative;
+    top: 50px;
+    
+}
+.name,.mail,.number,.address{
+    width: 70%;
+    height: 30px;
+    background-color:lightgoldenrodyellow;
+    border: none;
+}
+.label1,.label2,.label3,.label4{
+    font-size: 30px; 
+color:blue ;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+h5{
+    position: relative;
+    font-size: 28px;
+    top: 30px;
+    color: red;
+    text-align: center;
+}
+h6{
+    position: relative;
+    font-size:30px;
+    top: 25px;
+    text-align: center;
+}
+.submit{
+position: relative;
+top: 20px;
+padding: 18px;
+border: none;
+background-color: blue;
+color: white;
+
+
+}
